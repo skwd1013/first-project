@@ -1,2 +1,1 @@
-# first-project
-첫 번째 프로젝트
+# Learn to JAVA
